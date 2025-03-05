@@ -13,8 +13,8 @@ A **Command-Line Web Vulnerability Scanner** built in Python to scan websites fo
 ## 🔧 Installation
 ### 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/web-vuln-scanner.git
-cd web-vuln-scanner
+https://github.com/Arya182-ui/Web_Venerability_Scanner.git
+cd Web_Venerability_Scanner
 ```
 ### 2️⃣ **Install Dependencies**
 ```bash
