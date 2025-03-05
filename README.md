@@ -64,7 +64,7 @@ python Gui_Scanner.py
 The scan results are saved in an **HTML report (report.html)** format.
 
 ## 🖥️ GUI Screenshots
-![App Screenshot](https://via.placeholder.com/600x300?text=Password+Cracker+GUI)
+![App Screenshot](assets/image.png)
 
 
 ## 🔥 Author
